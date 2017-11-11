@@ -3,6 +3,8 @@
 Reveal basic details about an npm package.
 
 ### Usage
+The bin contains both `pkg-deets` and `deets`.
+
 ```bash
 $ yarn global add pkg-deets
 
