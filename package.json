@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "bin": {
+    "deets": "./cli.js",
     "pkg-deets": "./cli.js"
   },
   "author": "Blake Guilloud <blake.guilloud@gmail.com>",
