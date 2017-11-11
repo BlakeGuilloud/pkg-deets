@@ -1,7 +1,10 @@
 {
   "name": "pkg-deets",
-  "version": "1.0.0",
-  "main": "cli.js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "pkg-deets": "./cli.js"
+  },
   "author": "Blake Guilloud <blake.guilloud@gmail.com>",
   "description": "Find out the basic details of an npm package.",
   "license": "MIT",
