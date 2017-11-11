@@ -1,0 +1,14 @@
+{
+  "name": "pkg-deets",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "author": "Blake Guilloud <blake.guilloud@gmail.com>",
+  "description": "Find out the basic details of an npm package.",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.11.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
